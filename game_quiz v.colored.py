@@ -1,6 +1,6 @@
 import random
 
-#builbing colors and styles
+#builbing colours and styles
 class color:
    PURPLE = '\033[95m'
    BLUE = '\033[94m'
@@ -15,7 +15,7 @@ class color:
 # welcoming
 # title
 # version
-# autor
+# author
 # rights
 print("+---------------------------------------------------------------+")
 print("|                          W E L C O M E !                      |")
