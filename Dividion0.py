@@ -1,5 +1,5 @@
 '''I define a function of two integer variables div0'''
-def div0(a,b):
+def divisionBy0(a,b):
 #I set a condition if the given denominator is zero
     if b == 0:
     #if it meets the conditions, display sentence: Error-...
